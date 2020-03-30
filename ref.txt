@@ -1,0 +1,5 @@
+sfdx plugins:install @salesforce/lwc-dev-server
+sfdx plugins:update
+
+===server start 
+sfdx force:lightning:lwc:start
